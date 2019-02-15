@@ -31998,11 +31998,13 @@ select {
     min-height: 40px;
     padding-bottom: 0;
 }
-.bg-color-green {
+.bg-color-e2ffc1 {
     border-radius: 5px;
+    background-color: #e2ffc1 !important;
 }
-.bg-color-red {
+.bg-color-ffe1ea {
     border-radius: 5px;
+    background-color: #ffe1ea !important;
 }
 .navbar-inner.sliding .title{
     left: 0 !important;
